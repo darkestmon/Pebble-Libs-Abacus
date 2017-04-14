@@ -1,0 +1,26 @@
+{
+    "author": "ejr.jacob@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "library-number-input",
+    "pebble": {
+        "displayName": "Library - Number Input",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "1eb46851-b6f0-43e6-83f0-da10e742b315",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
